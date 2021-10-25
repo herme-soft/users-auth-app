@@ -1,0 +1,22 @@
+.private-container {
+    min-height: 100vh;
+    position: relative;
+    background: #f3f3f3;
+}
+
+/* .overlay {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    min-height: 100vh;
+    z-index: 999;
+} */
+
+.card {
+    background-color: #e6e6e6;
+    border-radius: 0 !important;
+}
+
+.card h5 {
+    color: #6c757d;
+}
+
