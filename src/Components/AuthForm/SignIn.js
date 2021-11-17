@@ -70,11 +70,11 @@ export default function SignIn() {
                 <button 
                 onClick={closeModal}
                 className="absolute text-2xl text-white rounded-sm shadow-lg btn-close bg-orange hover:bg-darkorange">X</button>
-                <p 
+                {/* <p 
                 onClick={toggleSignUp}
                 className="bottom-help-txt">
                     Besoin de créer un compte ?
-                </p>
+                </p> */}
             </div>
         </div>
     )
